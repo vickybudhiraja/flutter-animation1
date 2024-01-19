@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wgapp2/components/like_animation.dart';
+import 'package:/components/like_animation.dart';
 
 class TweenAnimationDemo extends StatefulWidget {
   const TweenAnimationDemo({Key? key}) : super(key: key);
